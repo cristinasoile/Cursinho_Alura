@@ -1,0 +1,4 @@
+* Conta no GitHub
+* Commit, VSCode e equipe
+* Trabalhando localmente
+* Add arquivos
